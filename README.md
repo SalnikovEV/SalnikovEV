@@ -1,4 +1,4 @@
-## Hi^_^, I'm Salnikov Evgeny** 
+## Hi, I'm Salnikov Evgeny >_<)
 
 **Computer Vision & iOS Developer** | BMSTU
 
