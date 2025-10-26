@@ -37,6 +37,7 @@ I'm a student at the **Bauman Moscow State Technical University (BMSTU)**, speci
 **3D Modeling & Visualization:**
 *   `KOMPAS-3D` - for technical 3D modeling
 *   `Blender` + `KeyShot` - for high-quality rendering
+*   `JigSpace` - for AR visualization
 *   `Adobe After Effects` - for video compositing and motion graphics
 
 ---
