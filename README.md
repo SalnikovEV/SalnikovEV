@@ -1,4 +1,4 @@
-## Hi, I'm Salnikov Evgeny >_<) /n I'm just learning)
+## Hi, I'm Evgeny Salnikov, and I'm just a student)
 
 
 **Computer Vision & iOS Developer** | BMSTU
