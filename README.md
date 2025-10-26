@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-**SalnikovEV/SalnikovEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Salnikov Evgeny** 
 
-**Computer Vision Student & Aspiring iOS Developer** | BMSTU
+**Computer Vision & iOS Developer** | BMSTU
 
-I'm a student at the **Bauman Moscow State Technical University (BMSTU)**, specializing in **Control Systems**. My passion lies at the intersection of robotics, computer vision, and software development. I'm currently expanding my skills into mobile development to create full-stack intelligent applications.
+
+I'm a student at the **Bauman Moscow State Technical University (BMSTU)**, specializing in **Control Systems**. My passion lies at the intersection of robotics, computer vision, software development and 3D modeling.
 
 ---
 
@@ -12,31 +13,38 @@ I'm a student at the **Bauman Moscow State Technical University (BMSTU)**, speci
 
 *   **Multi-Sensor Vision System:** Developing a sophisticated technical vision system that fuses data from a **stereo camera**, **thermal imager**, and **laser rangefinder** for enhanced perception and navigation.
 *   **iOS Development:** Actively learning Swift and iOS development through the **VK Education** program to bring ideas to the Apple ecosystem.
-
+*   **Process Automation:** Creating automation workflows in **n8n** for Telegram bots and group management processes to optimize the work of a research team
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-**Programming & Development:**
-*   `Python` (Primary) - for Computer Vision and Neural Networks
-*   `Swift` (Learning) - for iOS development
-*   `C` / `C++` (Beginner) - for low-level and performance-critical tasks
-*   `Git` & `GitHub`
+**Programming & Development:**   my skills are not top-notch but I'm still learning)
+*   `Python` - for Computer Vision and Neural Networks and applications
+*   `Swift`  - for iOS development
+*   `C` / `C++` - for low-level and performance-critical tasks
 
 **Computer Vision & AI:**
 *   Object Detection
 *   Image Segmentation
-*   Landing Zone Identification
+*   Determining the coordinates of the landing zone
+*   Thermal image
+*   Stereo image 
 
 **Engineering & Simulation:**
 *   `MATLAB` & `Simulink` - for control system design and simulation
+*   interested in using the Unreal Engine 5 for visualization
+
+**3D Modeling & Visualization:**
+*   `KOMPAS-3D` - for technical 3D modeling
+*   `Blender` + `KeyShot` - for high-quality rendering
+*   `Adobe After Effects` - for video compositing and motion graphics
 
 ---
 
 ### 🎓 Education & Courses
 
-*   **BSc in Control Systems** - Bauman Moscow State Technical University (BMSTU)
-*   **iOS Developer Program** - VK Education
+*   **Specialist in Control Systems** (2022 - 2028) - Bauman Moscow State Technical University (BMSTU)
+*   **iOS Developer Program** (2025 - 2026) - VK Education
 
 ---
 
