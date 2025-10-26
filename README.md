@@ -1,5 +1,5 @@
-## Hi, I'm Salnikov Evgeny >_<)
-## I'm just learning)
+## Hi, I'm Salnikov Evgeny >_<) /n I'm just learning)
+
 
 **Computer Vision & iOS Developer** | BMSTU
 
